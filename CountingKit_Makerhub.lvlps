@@ -1,10 +1,2 @@
-[AB_Cache_{B2994395-5EE1-470A-9BE3-9200FDB18A53}]
-Cache_Path[Path] Line0001 = "/C/Users/SNG_THINKPAD/AppData/Local/Temp/AB_Cache_"
-Cache_Path[Path] Line0002 = "{B2994395-5EE1-470A-9BE3-9200FDB18A53}.txt"
-
-[AB_Cache_{EB65DBE6-9620-42C7-A46D-2D997F724BC9}]
-Cache_Path[Path] Line0001 = "/C/Users/SNG_THINKPAD/AppData/Local/Temp/AB_Cache_"
-Cache_Path[Path] Line0002 = "{EB65DBE6-9620-42C7-A46D-2D997F724BC9}.txt"
-
 [ProjectWindow_Data]
 ProjectExplorer.ClassicPosition[String] = "88,896,917,1386"
